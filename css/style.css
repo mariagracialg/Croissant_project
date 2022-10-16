@@ -1,9 +1,10 @@
 body {
   background-color: blanchedalmond;
   text-align: center;
+  margin: 30px auto;
   font-family: "Courier New", Courier, monospace;
-  max-width: 640px;
-  padding: 50px;
+  max-width: 800px;
+  padding: 20px;
   color: #2e475d;
 }
 h1 {
@@ -12,6 +13,7 @@ h1 {
 p {
   font-weight: 600;
   padding: 25px 25px;
+  font-size: 15px;
 }
 
 img {
